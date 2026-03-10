@@ -11,7 +11,7 @@ This project is a basic website built using **HTML** and **CSS**. It demonstrate
 - CSS
 
 ## How to view
-You can access my portfolio website by visiting [] feel free to explore the content and get in touch.
+You can access my portfolio website by visiting and feel free to explore the content and get in touch.
 
 ## Author
 Atchaya M
